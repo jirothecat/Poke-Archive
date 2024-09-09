@@ -1,0 +1,12 @@
+{
+    "pokemon": [
+      {  
+        "id": 1,
+        "name": "flatburger",
+        "price": 7.99,
+        "image": ""
+
+    }
+
+    ]
+}
