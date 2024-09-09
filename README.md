@@ -9,6 +9,7 @@ To enable and use the website application, a local database must be ran and be s
 ```
 json-server --watch db.json;
 ```
+```
 live-server
 ```
 ```
